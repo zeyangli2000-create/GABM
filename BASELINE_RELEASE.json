@@ -1,0 +1,15 @@
+{
+  "release_id": "20261024-v1.0",
+  "version": "1.0.0",
+  "status": "SEALED",
+  "date": "2026-10-24",
+  "timezone": "Asia/Shanghai",
+  "experiment": "20261024-original-fields-vehicle-proxies",
+  "evaluation_type": "simulation_only",
+  "population_method": "synthetic_proxy",
+  "canonical_results": "runs/20261024_verified_release",
+  "audit": "EXPERIMENT_AUDIT.json",
+  "frozen_policy": "Keep this archive; later changes use a new release ID. No automatic upload or message.",
+  "vehicle_proxies": 58491,
+  "represented_auto_people": 63513
+}
